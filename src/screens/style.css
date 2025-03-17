@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@300;400;600;700&display=swap');
+
+body {
+  font-family: 'Exo', sans-serif;
+}
+
+:root {
+    --primary-color: #00A8E8;  /* Deep Sky Blue */
+    --secondary-color: #001F3F; /* Navy Blue */
+    --background-color: #F4F9FF; /* Light Blue-Gray */
+    --text-color: #ffffff; /* White for dark backgrounds */
+    --heading-color: #001F3F; /* Dark Navy for headings */
+  }
+  

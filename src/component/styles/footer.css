@@ -1,0 +1,26 @@
+.footer {
+    background-color: #121212; /* Dark Theme */
+    color: #ffffff;
+  }
+  
+  .footer h4, .footer h5 {
+    color: #f8f9fa;
+  }
+  
+  .footer a {
+    transition: color 0.3s;
+  }
+  
+  .footer a:hover {
+    color: #00bcd4; /* Accent color */
+  }
+  
+  .social-icons a {
+    display: inline-block;
+    transition: transform 0.3s;
+  }
+  
+  .social-icons a:hover {
+    transform: scale(1.2);
+  }
+  
